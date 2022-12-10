@@ -132,3 +132,6 @@ dmypy.json
 # Docker volumes
 postgresql
 pgadmin4
+
+# Exe files
+.exe
